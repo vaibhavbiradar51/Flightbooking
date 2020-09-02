@@ -12,7 +12,6 @@
 
 1. Clone the repository and navigate to it
 ```
-git clone https://github.com/sapph1re/flight-tickets.git
 cd flight-tickets
 ```
 
